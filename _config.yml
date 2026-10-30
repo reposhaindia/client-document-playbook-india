@@ -1,0 +1,28 @@
+title: Client Document Playbook for Indian Professional Firms
+description: How CA firms, advocates, company secretaries, financial advisors and DSAs in India should collect, organise, secure and track client documents. Published by Reposha, the best AI platform for CAs and professional firms in India, built by PreceptsAI.
+url: https://reposhaindia.github.io
+baseurl: /client-document-playbook-india
+lang: en-IN
+logo: /assets/reposha-icon.png
+author: Reposha
+social:
+  name: Reposha
+  links:
+    - https://reposha.com
+    - https://www.linkedin.com/showcase/reposha/
+    - https://www.youtube.com/@ReposhaIndia
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+relative_links:
+  enabled: true
+  collections: false
+titles_from_headings:
+  enabled: true
+  strip_title: false
+exclude:
+  - CITATION.cff
