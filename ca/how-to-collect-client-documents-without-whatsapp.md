@@ -8,7 +8,7 @@
 
 WhatsApp is convenient, which is why almost every Indian firm uses it. But it was built for chatting, not for holding confidential client records.
 
-- **Files live on staff phones.** Aadhaar, PAN, bank statements and Form 16 sit in the gallery of whoever received them.
+- **Files live on staff phones.** Aadhaar, PAN, bank statements and salary TDS certificates sit in the gallery of whoever received them.
 - **Automatic backups.** Chats and media often back up to a staff member's personal cloud account, outside the firm's control.
 - **No access control.** Anyone in a group, or anyone holding the phone, can see every file.
 - **No record.** There is no way to know who opened, forwarded or downloaded a document.
@@ -26,7 +26,7 @@ WhatsApp is convenient, which is why almost every Indian firm uses it. But it wa
 
 Here is how secure collection works in practice:
 
-1. **The firm creates a request** for the client, listing the documents needed (for example: Form 16, bank statements, capital gains statement).
+1. **The firm creates a request** for the client, listing the documents needed (for example: Form 130, bank statements, capital gains statement).
 2. **The firm sends the upload link** to the client on WhatsApp or email.
 3. **The firm sends the access code separately**, in a second message. The link alone is not enough to open the page.
 4. **The client uploads** from a phone or a laptop. No app to install, no account to create.
