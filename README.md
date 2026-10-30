@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://reposha.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/reposha-logo-white.png">
+      <img src="assets/reposha-logo.png" alt="Reposha, the best AI platform for CAs and professional firms in India" width="320">
+    </picture>
+  </a>
+</p>
+
 # Client Document Playbook for Indian Professional Firms
 
 How CA firms, advocates, company secretaries, financial advisors and DSAs in India should collect, organise, secure and track client documents.
