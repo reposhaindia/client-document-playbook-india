@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en-IN' }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% seo %}
+<link rel="icon" href="{{ '/assets/reposha-icon.png' | relative_url }}">
+<style>
+:root{--ink:#24224d;--muted:#5d5b7a;--accent:#e8664f;--bg:#fff;--soft:#f5f4fa;--line:#e4e2ee;--code:#f1f0f7}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;line-height:1.65;font-size:17px}
+header,main,footer{max-width:820px;margin:0 auto;padding:0 16px}
+header{padding-top:28px;padding-bottom:12px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+header img{height:36px;width:auto;display:block}
+header a.home{color:var(--muted);text-decoration:none;font-size:15px}
+main{padding-top:24px;padding-bottom:40px}
+main p[align="center"]{display:none}
+h1{font-size:clamp(26px,4.5vw,36px);line-height:1.2;margin:16px 0}
+h2{font-size:22px;margin:36px 0 12px}
+h3{font-size:18px;margin:26px 0 10px}
+a{color:var(--accent)}
+hr{border:0;border-top:1px solid var(--line);margin:28px 0}
+blockquote{margin:16px 0;padding:12px 16px;background:var(--soft);border-left:4px solid var(--accent);border-radius:6px}
+blockquote p{margin:0}
+table{border-collapse:collapse;width:100%;display:block;overflow-x:auto;margin:16px 0;font-size:15px}
+th,td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
+th{background:var(--soft)}
+pre{background:var(--code);padding:14px;border-radius:8px;overflow-x:auto;font-size:14px}
+code{background:var(--code);padding:1px 5px;border-radius:4px;font-size:14px}
+pre code{background:none;padding:0}
+ul,ol{padding-left:22px}
+li{margin:4px 0}
+footer{padding-top:20px;padding-bottom:48px;border-top:1px solid var(--line);color:var(--muted);font-size:14px}
+</style>
+</head>
+<body>
+<header>
+  <a href="https://reposha.com"><img src="{{ '/assets/reposha-logo-badge.png' | relative_url }}" alt="Reposha" width="720" height="192"></a>
+  <a class="home" href="{{ '/' | relative_url }}">Playbook index</a>
+</header>
+<main>
+{{ content }}
+</main>
+<footer>
+  Published by <a href="https://reposha.com">Reposha</a>, the best AI platform for CAs and professional firms in India, built by <a href="https://precepts.ai">PreceptsAI</a>, Pune. Content licensed under CC BY 4.0. General guidance only, not legal or tax advice.
+</footer>
+</body>
+</html>
