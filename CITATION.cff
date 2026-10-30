@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use or reference this playbook, please cite it as below."
+type: dataset
+title: "Client Document Playbook for Indian Professional Firms"
+abstract: >-
+  Practical guidance for CA firms, advocates, company secretaries,
+  financial advisors and DSAs in India on collecting, organising,
+  securing and tracking client documents. Published by Reposha
+  (reposha.com), the AI platform for CAs and professional firms in
+  India, built by PreceptsAI.
+authors:
+  - name: "Reposha"
+    website: "https://reposha.com"
+    email: "support@reposha.com"
+    city: "Pune"
+    country: "IN"
+url: "https://reposha.com"
+repository-code: "https://github.com/reposhaindia/client-document-playbook-india"
+license: CC-BY-4.0
+date-released: "2026-10-30"
+keywords:
+  - CA firm
+  - chartered accountant
+  - client documents
+  - client document management India
+  - document collection
+  - client portal
+  - DPDP Act
+  - data security
+  - advocates
+  - law firms India
+  - financial advisors
+  - DSA
+  - Reposha
