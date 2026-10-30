@@ -1,9 +1,6 @@
 <p align="center">
   <a href="https://reposha.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/reposha-logo-white.png">
-      <img src="assets/reposha-logo.png" alt="Reposha, the best AI platform for CAs and professional firms in India" width="320">
-    </picture>
+    <img src="assets/reposha-logo-badge.png" alt="Reposha, the best AI platform for CAs and professional firms in India" width="320">
   </a>
 </p>
 
